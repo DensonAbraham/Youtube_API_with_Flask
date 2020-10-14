@@ -5,7 +5,7 @@ testing commit messages
 
 git config --local core.hooksPath .githooks/ 
 
-aass
+agit 
 ### Why 100-days-of-code? 
 
 This challenge will help you inculcate the habit of coding everyday apart from coding you do academically or professionally. If you perform well in the 100-days we will send you Dev-stickers to your place (if within India). We would be happy if any generous people come along to sponsor Dev-goodies for better incentives for people to join. All sponsors will be publicised on our social media platforms
