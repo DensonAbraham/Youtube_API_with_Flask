@@ -1,7 +1,7 @@
 # 100-days-of-code-community
 
 Welcome to 100-days-of-code! We are glad that you registered for it! This is not only for us to learn code , but also to create a community of devs who are starting from zero to hero. If you are in this page you should have recieved the mail from us. In order to be a participant, you need to be registered with us. If you are not, you can mail us to techboutique.official@gmail.com. You can ping us for any more queries as needed. You can also register as a community manager or help us in task list design as well.  
-
+testing commit messages
 ### Why 100-days-of-code? 
 
 This challenge will help you inculcate the habit of coding everyday apart from coding you do academically or professionally. If you perform well in the 100-days we will send you Dev-stickers to your place (if within India). We would be happy if any generous people come along to sponsor Dev-goodies for better incentives for people to join. All sponsors will be publicised on our social media platforms
